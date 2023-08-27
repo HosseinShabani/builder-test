@@ -3,7 +3,7 @@
 In this project, we would like you to write a program to display a list of components and elements of an iframe.
 The program's result should be something like the design below:
 
-![Layers](/layers.png)
+![Result](/result.png)
 
 ## How to start
 
